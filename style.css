@@ -569,6 +569,10 @@ html, body {
     border-radius: 5px;
 }
 
+#page6 #navin #input-email{
+    color: #000;
+}
+
 #page6 #navin input:focus {
     background-color: #fff;
     border: none;
