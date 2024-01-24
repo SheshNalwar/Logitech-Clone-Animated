@@ -89,6 +89,7 @@ html, body {
 #nav img {
     height: 90px;
     width: 160px;
+    cursor: pointer;
 }
 
 #nav-mid {
@@ -104,6 +105,7 @@ html, body {
     border-radius: 50px;
     padding: 10px 20px;
     color: #2f3132;
+    cursor: pointer;
 }
 
 #nav-mid h6:hover {
